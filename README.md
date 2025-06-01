@@ -43,3 +43,4 @@ SignalR, ASP.NET Core 6.0 kullanılarak geliştirilmiş bir yemek siparişi uygu
 ## SOLID Prensipleri
 
 Projede SOLID prensiplerine uygun olarak geliştirme yapılmıştır.  
+
